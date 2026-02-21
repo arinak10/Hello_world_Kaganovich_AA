@@ -1,5 +1,0 @@
-proteins = int(input("Введите массу белков:"))
-fats =int(input("Введите массу жиров:"))
-carbohydrates = int(input("Введите массу углеводов:"))
-calories = (proteins * 4)+(fats * 10)+(carbohydrates * 4)
-print(f"Калорийность: {calories}")
