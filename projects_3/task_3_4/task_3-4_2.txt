@@ -1,0 +1,19 @@
+aukrix@aukrix-VMware-Virtual-Platform:/mnt/hgfs$ cd инфа
+aukrix@aukrix-VMware-Virtual-Platform:/mnt/hgfs/инфа$ mkdir -pv linux-practice/{documents,images,backups}
+mkdir: создан каталог 'linux-practice'
+mkdir: создан каталог 'linux-practice/documents'
+mkdir: создан каталог 'linux-practice/images'
+mkdir: создан каталог 'linux-practice/backups'
+aukrix@aukrix-VMware-Virtual-Platform:/mnt/hgfs/инфа$ cd linux-practice
+aukrix@aukrix-VMware-Virtual-Platform:/mnt/hgfs/инфа/linux-practice$ ls
+backups  documents  images
+aukrix@aukrix-VMware-Virtual-Platform:/mnt/hgfs/инфа/linux-practice$ mkdir -v past future
+mkdir: создан каталог 'past'
+mkdir: создан каталог 'future'
+aukrix@aukrix-VMware-Virtual-Platform:/mnt/hgfs/инфа/linux-practice$ du -h --max-depth=2 ./
+0	./backups
+0	./documents
+0	./future
+0	./images
+0	./past
+4,0K	./

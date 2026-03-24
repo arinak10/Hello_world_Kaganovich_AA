@@ -1,0 +1,2 @@
+grep "$USER" /etc/passwd
+

@@ -1,0 +1,16 @@
+ls -l ; ls -h
+
+ls -l
+итого 36
+drwx------ 4 aukrix aukrix 4096 мар 12 18:00  snap
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Видео
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Документы
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Загрузки
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Изображения
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Музыка
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Общедоступные
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04 'Рабочий стол'
+drwxr-xr-x 2 aukrix aukrix 4096 мар 12 16:04  Шаблоны
+
+ls -h
+ snap   Видео   Документы   Загрузки   Изображения   Музыка   Общедоступные  'Рабочий стол'   Шаблоны
